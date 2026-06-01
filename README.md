@@ -5,7 +5,7 @@
 ![Google Sheets](https://img.shields.io/badge/Database-Google%20Sheets-109D59.svg)
 ![Arduino IDE](https://img.shields.io/badge/IDE-Arduino-00979D.svg)
 
-An IoT-based biometric attendance tracking system that bridges embedded hardware with the cloud. Utilizing an **ESP32**, an optical fingerprint sensor, and an I2C LCD, this system authenticates users locally and logs their precise "Entry" and "Exit" timestamps directly to a Google Sheet over Wi-Fi.
+An IoT based biometric attendance tracking system that bridges embedded hardware with the cloud. Utilizing an **ESP32**, an optical fingerprint sensor, and an I2C LCD, this system authenticates users locally and logs their precise "Entry" and "Exit" timestamps directly to a Google Sheet over Wi-Fi.
 
 ---
 
